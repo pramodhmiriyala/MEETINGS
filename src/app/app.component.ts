@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { Router } from '@angular/router';
 
 @Component({
   selector: 'app-root',
@@ -9,6 +10,6 @@ export class AppComponent {
   title = 'ChristWords';
   user1="jashuva";
   user2="christhudas";
-  
+
 
 }
